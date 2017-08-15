@@ -1,2 +1,2 @@
 # Coastal_Nursing_System
-Web application to manage a nursing system
+THIS IS A WEBAPPLICATION USED TO MANAGE A COASTAL NURSING SYSTEM
